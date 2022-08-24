@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vasujain2
-- 👀 I’m interested in Discord Bots and Machine Learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Learning Java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on my own open source project
 - 📫 How to reach me, Just Msg me on telegram @vashuajain2
 
