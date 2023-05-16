@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasu</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate self taught developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasujain275&label=Profile%20views&color=0e75b6&style=flat" alt="vasujain275" /> </p>
 
