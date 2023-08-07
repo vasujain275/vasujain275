@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA & MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vasujain275](https://github.com/vasujain275)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/vasujain275/portfolio)
 
 - 📫 How to reach me **vasujain275@gmail.com**
 
