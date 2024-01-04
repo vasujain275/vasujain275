@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasujain275&label=Profile%20views&color=0e75b6&style=flat" alt="vasujain275" /> </p>
 
-- 🌱 I’m currently learning **DSA & MERN Stack**
+- 🌱 I’m currently learning **FullStack Devlopment in JS**
 
 - 👨‍💻 All of my projects are available at [My Projects](https://vasujain275.github.io/projects/)
 
