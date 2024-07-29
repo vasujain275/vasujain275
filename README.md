@@ -1,4 +1,4 @@
-# Software Engineer | DevOps Enthusiast | Linux Nerd
+# SWE & Linux Nerd
 
 - 🔭 Currently diving deep into Golang and Wails
 - 🛠️ Crafting efficient backend systems and exploring cloud technologies
