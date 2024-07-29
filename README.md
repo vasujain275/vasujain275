@@ -3,7 +3,7 @@
 - 🔭 Currently diving deep into Golang and Wails
 - 🛠️ Crafting efficient backend systems and exploring cloud technologies
 - ⌨️ I use Neovim on my Arch btw
-- 💬 Let's chat about Unix, containers, or the latest tech trends!
+- 💬 Let's chat about linux, self hosting, cool unix stuff, anime, games.
 
 ```json
 {
