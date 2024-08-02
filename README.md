@@ -16,7 +16,7 @@ skills:
   editors: [Neovim, Zed, IntelliJ]
 
   backend: [Express.js, Fastify]
-  frontend: [SvelteKit Next.js Svelte React]
+  frontend: [SvelteKit, Next.js, Svelte, React]
   databases: [PostgreSQL, SQLite, MongoDB]
 
   devOps:
