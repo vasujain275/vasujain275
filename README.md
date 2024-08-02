@@ -8,19 +8,15 @@
 ```yaml
 skills:
   languages:
-    - JavaScript
     - TypeScript
     - Python
     - Java
     - Go
 
-  backendFrameworks: [Express.js, Fastify]
-  frontendTech:
-    - Svelte
-    - SvelteKit
-    - React
-    - Next.js
+  editors: [Neovim, Zed, IntelliJ]
 
+  backend: [Express.js, Fastify]
+  frontend: [SvelteKit Next.js Svelte React]
   databases: [PostgreSQL, SQLite, MongoDB]
 
   devOps:
@@ -28,9 +24,7 @@ skills:
     orchestration: [Docker Compose, Docker Swarm]
     ci_cd: GitHub Actions
     infrastructure: Ansible
-
-  cloudPlatforms: [AWS, Linode]
-  editors: [Neovim, Zed, IntelliJ]
+    cloudPlatforms: [AWS, Linode]
 
   currentlyExploring: Wails for Go-based desktop apps
 ```
