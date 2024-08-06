@@ -9,7 +9,6 @@
 skills:
   languages:
     - TypeScript
-    - Python
     - Java
     - Go
 
