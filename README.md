@@ -12,7 +12,7 @@ skills:
     - Java
     - Go
 
-  editors: [Neovim, Zed, IntelliJ]
+  editors: [Neovim, IntelliJ]
 
   backend: [Express.js, Fastify]
   frontend: [SvelteKit, Next.js, Svelte, React]
