@@ -2,7 +2,7 @@
 
 - 🔭 Currently diving deep into Golang and Wails
 - 🛠️ Crafting efficient backend systems and exploring cloud technologies
-- ⌨️ I use Neovim on my Arch btw
+- ⌨️ I use Neovim on my NixOS btw
 - 💬 Let's chat about linux, self hosting, cool unix stuff, anime, games.
 
 ```yaml
