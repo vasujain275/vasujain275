@@ -10,20 +10,21 @@ skills:
   languages:
     - TypeScript
     - Java
+    - Python
     - Go
 
   editors: [Neovim, IntelliJ]
 
-  backend: [Express.js, Fastify]
-  frontend: [SvelteKit, Next.js, Svelte, React]
+  backend: [Express.js, Fastify, Frappe]
+  frontend: [Svelte/SvelteKit, React/NextJS, Vue]
   databases: [PostgreSQL, SQLite, MongoDB]
 
   devOps:
     containerization: [Docker, Podman]
     orchestration: [Docker Compose, Docker Swarm]
-    ci_cd: GitHub Actions
-    infrastructure: Ansible
+    ci_cd: [GitHub Actions, Jenkins]
+    infrastructure: [Ansible, Nix]
     cloudPlatforms: [AWS, Linode]
 
-  currentlyExploring: Wails for Go-based desktop apps
+  currentlyExploring: Frappe based Web applications
 ```
