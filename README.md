@@ -1,9 +1,10 @@
-# Backend Dev & Linux Nerd
+# Backend Dev
 
 - 🔭 Currently diving deep into Golang
 - 🛠️ Crafting efficient backend systems and exploring cloud technologies
 - ⌨️ I use Neovim on my Arch btw
 - 💬 Let's chat about Linux, self hosting, backend tech, etc.
+
 ```yaml
 skills:
   languages:
