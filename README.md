@@ -24,7 +24,7 @@ skills:
     orchestration: [Docker Compose, Docker Swarm]
     ci_cd: [GitHub Actions, Jenkins]
     infrastructure: [Ansible, Nix]
-    cloudPlatforms: [AWS, Caddy]
+    cloudPlatforms: [AWS, Azure, GCP]
 
   currentlyExploring: Microservice architecture and robust backend systems in Java and Go
 ```
